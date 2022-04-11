@@ -7,4 +7,4 @@ Here are examples of research projects generated with R Studio using TidyR and R
 
 Project | Description | HTML Output | Rmd Code
 --- | --- | --- | ---
-Rmd Example | Default startup Rmd | [html](https://kieranstewart-phillips.github.io/Upload_inflation/) | [code](https://github.com/KieranStewart-Phillips/Upload_inflation)
+Averaging Forecast | Forecast for Inflation | [html](https://kieranstewart-phillips.github.io/Upload_inflation/) | [code](https://github.com/KieranStewart-Phillips/Upload_inflation)
