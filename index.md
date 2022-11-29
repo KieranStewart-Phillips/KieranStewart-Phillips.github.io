@@ -15,4 +15,4 @@ Master's in Applied Economics Candidate <br/>
 Florida State University <br/>
 Tallahassee, Florida, 32306 <br/>
 
-[Email: kcs17b@my.fsu.edu](mailto: kcs17b@my.fsu.edu)
+[Email: kcs17b@fsu.edu](mailto: kcs17b@fsu.edu)
