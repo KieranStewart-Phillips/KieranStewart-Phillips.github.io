@@ -5,7 +5,7 @@ title: Analysis of Economic Data
 
 ##  Projects
 <a> 
-<img src="C:\Users\stewark\Desktop\Picture.jpeg" alt="NONE" width="250"/>
+<img src="https://avatars.githubusercontent.com/u/97981374?v=4" alt="NONE" width="250"/>
 </a>
 
 ## Contact Information 
