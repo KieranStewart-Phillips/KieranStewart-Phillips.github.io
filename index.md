@@ -10,8 +10,8 @@ title: Economic Analysis Portfolio
 
 ## Contact Information 
 
-Kieran Stewart-Phillips
-Education<br/>
+Kieran Stewart-Phillips <br/>
+Education <br/>
 Master of Science - Applied Economics <br/>
 Bachelor of Science - Economics <br/>
 Florida State University <br/>
