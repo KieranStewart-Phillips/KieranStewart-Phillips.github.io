@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Analysis Portfolio
+title: Portfolio
 ---
 
 ## Projects 
