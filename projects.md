@@ -16,6 +16,6 @@ VAR Model Housing | Constructing a VAR model for housing and bank loans | [html]
 
 Below is a link to an economic impact analysis that I took part in for The Able Trust with regards to the impact of increasing labor force participation for the state of Florida. 
 
-title | Description | Link
+Paper Title | Description | Link
 --- | --- | ---
 The Benefits of Increasing the Labor Force Participation Rate for People with Disabilities | Economic Impact Analysis | [Read Here]([https://yourcompanywebsite.com/your-paper](https://www.abletrust.org/wp-content/uploads/2022/09/The-Able-Trust-Economic-Impact-Report.pdf))
