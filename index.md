@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Economic Analysis Portfolio
+title: Analysis Portfolio
 ---
 
 ##  Projects
