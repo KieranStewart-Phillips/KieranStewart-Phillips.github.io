@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Analysis of Economic Data
+title: Economic Analysis Portfolio
 ---
 
 ##  Projects
@@ -10,9 +10,11 @@ title: Analysis of Economic Data
 
 ## Contact Information 
 
-Kieran Stewart-Phillips<br/>
-Master's in Applied Economics Candidate <br/>
+Kieran Stewart-Phillips
+Education<br/>
+Master of Science - Applied Economics <br/>
+Bachelor of Science - Economics <br/>
 Florida State University <br/>
-Tallahassee, Florida, 32306 <br/>
+Tallahassee, Florida <br/>
 
 [Email: kcstewart100@gmail.com](mailto: kcstewart100@gmail.com)
